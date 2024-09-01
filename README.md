@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm a Computer Science and Technology student passionate about frontend development.
+I'm a Computer Science and Technology student passionate about frontend development, currently diving deep into learning React.
+
 ## 📫 How to reach me
 - **Email**: [fx_official@outlook.com](fx_official@outlook.com)
 
