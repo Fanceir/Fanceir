@@ -1,6 +1,3 @@
-## Hi there 👋
-我是一个来自江南大学的计算机科学与技术学生，目前正在寻找前端的实习，如果有好的开源项目需要前端也可以联系我❤️
-
 ## 📫 How to reach me
 - **Email**: [fx_official@outlook.com](fx_official@outlook.com)
 
