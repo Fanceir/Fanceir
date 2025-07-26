@@ -1,7 +1,6 @@
 # Hi there 👋 I'm huhu
 
-大三计科学生/目前在🦘实习
-FK 设计！！！
+大四计科 备战秋招
 
 ## 🤝 **联系与互动**
 - 📧 邮箱：fx_official@outlook.com
